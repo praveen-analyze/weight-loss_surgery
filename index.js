@@ -67,7 +67,7 @@ setInterval(() => {
 
 // ---------- Booking form -> Google Sheet ----------
 // Replace with your deployed Apps Script web app URL (see apps-script/Code.gs).
-const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzMS3EgX_tJzAEC8aWG_jMipLA9QY_UTGu6baPkaVWOpl9RzBRQ87ikDD7ODNP2a-Jn/exec';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbz5fFutjiQYB3bbiydXgmSWcDb_IDpMYkjaWjILoMgoAm7-ZI16dcZ-Wpz13WfBY806/exec';
 
 const form = document.getElementById('bookingForm');
 const bookingFormWrapper = document.getElementById('bookingFormWrapper');
